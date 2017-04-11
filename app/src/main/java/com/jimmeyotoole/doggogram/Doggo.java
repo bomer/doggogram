@@ -14,6 +14,5 @@ public class Doggo {
     public Doggo(String n, String i){
         name=n;
         image=i;
-
     }
 }
